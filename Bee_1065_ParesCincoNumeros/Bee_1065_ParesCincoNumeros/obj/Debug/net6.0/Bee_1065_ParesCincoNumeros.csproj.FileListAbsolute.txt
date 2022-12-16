@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\bin\Debug\net6.0\Bee_1065_ParesCincoNumeros.exe
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\bin\Debug\net6.0\Bee_1065_ParesCincoNumeros.deps.json
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\bin\Debug\net6.0\Bee_1065_ParesCincoNumeros.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\bin\Debug\net6.0\Bee_1065_ParesCincoNumeros.dll
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\bin\Debug\net6.0\Bee_1065_ParesCincoNumeros.pdb
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\obj\Debug\net6.0\Bee_1065_ParesCincoNumeros.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\obj\Debug\net6.0\Bee_1065_ParesCincoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\obj\Debug\net6.0\Bee_1065_ParesCincoNumeros.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\obj\Debug\net6.0\Bee_1065_ParesCincoNumeros.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\obj\Debug\net6.0\Bee_1065_ParesCincoNumeros.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\obj\Debug\net6.0\Bee_1065_ParesCincoNumeros.dll
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\obj\Debug\net6.0\refint\Bee_1065_ParesCincoNumeros.dll
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\obj\Debug\net6.0\Bee_1065_ParesCincoNumeros.pdb
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\obj\Debug\net6.0\Bee_1065_ParesCincoNumeros.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1065_ParesCincoNumeros\Bee_1065_ParesCincoNumeros\obj\Debug\net6.0\ref\Bee_1065_ParesCincoNumeros.dll

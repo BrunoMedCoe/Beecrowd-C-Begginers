@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.exe
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.deps.json
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.runtimeconfig.json
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.dll
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\bin\Debug\net6.0\OMaior_1013.pdb
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.dll
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\refint\OMaior_1013.dll
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.pdb
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\OMaior_1013.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\OMaior_1013\OMaior_1013\obj\Debug\net6.0\ref\OMaior_1013.dll

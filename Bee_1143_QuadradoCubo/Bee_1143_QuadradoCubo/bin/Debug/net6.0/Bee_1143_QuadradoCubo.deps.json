@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bee_1143_QuadradoCubo/1.0.0": {
+        "runtime": {
+          "Bee_1143_QuadradoCubo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bee_1143_QuadradoCubo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

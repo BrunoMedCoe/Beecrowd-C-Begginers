@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\bin\Debug\net6.0\Bee_1174_SelecaoVetor1.exe
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\bin\Debug\net6.0\Bee_1174_SelecaoVetor1.deps.json
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\bin\Debug\net6.0\Bee_1174_SelecaoVetor1.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\bin\Debug\net6.0\Bee_1174_SelecaoVetor1.dll
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\bin\Debug\net6.0\Bee_1174_SelecaoVetor1.pdb
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\obj\Debug\net6.0\Bee_1174_SelecaoVetor1.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\obj\Debug\net6.0\Bee_1174_SelecaoVetor1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\obj\Debug\net6.0\Bee_1174_SelecaoVetor1.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\obj\Debug\net6.0\Bee_1174_SelecaoVetor1.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\obj\Debug\net6.0\Bee_1174_SelecaoVetor1.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\obj\Debug\net6.0\Bee_1174_SelecaoVetor1.dll
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\obj\Debug\net6.0\refint\Bee_1174_SelecaoVetor1.dll
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\obj\Debug\net6.0\Bee_1174_SelecaoVetor1.pdb
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\obj\Debug\net6.0\Bee_1174_SelecaoVetor1.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1174_SelecaoVetor1\Bee_1174_SelecaoVetor1\obj\Debug\net6.0\ref\Bee_1174_SelecaoVetor1.dll

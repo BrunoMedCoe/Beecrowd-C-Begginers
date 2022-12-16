@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\bin\Debug\net6.0\Bee_1080_MaiorPosicao.exe
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\bin\Debug\net6.0\Bee_1080_MaiorPosicao.deps.json
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\bin\Debug\net6.0\Bee_1080_MaiorPosicao.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\bin\Debug\net6.0\Bee_1080_MaiorPosicao.dll
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\bin\Debug\net6.0\Bee_1080_MaiorPosicao.pdb
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\obj\Debug\net6.0\Bee_1080_MaiorPosicao.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\obj\Debug\net6.0\Bee_1080_MaiorPosicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\obj\Debug\net6.0\Bee_1080_MaiorPosicao.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\obj\Debug\net6.0\Bee_1080_MaiorPosicao.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\obj\Debug\net6.0\Bee_1080_MaiorPosicao.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\obj\Debug\net6.0\Bee_1080_MaiorPosicao.dll
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\obj\Debug\net6.0\refint\Bee_1080_MaiorPosicao.dll
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\obj\Debug\net6.0\Bee_1080_MaiorPosicao.pdb
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\obj\Debug\net6.0\Bee_1080_MaiorPosicao.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1080_MaiorPosicao\Bee_1080_MaiorPosicao\obj\Debug\net6.0\ref\Bee_1080_MaiorPosicao.dll

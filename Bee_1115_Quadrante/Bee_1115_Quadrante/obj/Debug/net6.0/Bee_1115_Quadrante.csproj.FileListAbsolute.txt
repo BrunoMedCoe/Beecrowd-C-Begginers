@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\bin\Debug\net6.0\Bee_1115_Quadrante.exe
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\bin\Debug\net6.0\Bee_1115_Quadrante.deps.json
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\bin\Debug\net6.0\Bee_1115_Quadrante.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\bin\Debug\net6.0\Bee_1115_Quadrante.dll
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\bin\Debug\net6.0\Bee_1115_Quadrante.pdb
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\obj\Debug\net6.0\Bee_1115_Quadrante.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\obj\Debug\net6.0\Bee_1115_Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\obj\Debug\net6.0\Bee_1115_Quadrante.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\obj\Debug\net6.0\Bee_1115_Quadrante.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\obj\Debug\net6.0\Bee_1115_Quadrante.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\obj\Debug\net6.0\Bee_1115_Quadrante.dll
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\obj\Debug\net6.0\refint\Bee_1115_Quadrante.dll
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\obj\Debug\net6.0\Bee_1115_Quadrante.pdb
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\obj\Debug\net6.0\Bee_1115_Quadrante.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1115_Quadrante\Bee_1115_Quadrante\obj\Debug\net6.0\ref\Bee_1115_Quadrante.dll

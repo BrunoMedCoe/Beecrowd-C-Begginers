@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\bin\Debug\net6.0\Bee_1064_PoaitivosMedia.exe
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\bin\Debug\net6.0\Bee_1064_PoaitivosMedia.deps.json
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\bin\Debug\net6.0\Bee_1064_PoaitivosMedia.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\bin\Debug\net6.0\Bee_1064_PoaitivosMedia.dll
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\bin\Debug\net6.0\Bee_1064_PoaitivosMedia.pdb
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\obj\Debug\net6.0\Bee_1064_PoaitivosMedia.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\obj\Debug\net6.0\Bee_1064_PoaitivosMedia.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\obj\Debug\net6.0\Bee_1064_PoaitivosMedia.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\obj\Debug\net6.0\Bee_1064_PoaitivosMedia.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\obj\Debug\net6.0\Bee_1064_PoaitivosMedia.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\obj\Debug\net6.0\Bee_1064_PoaitivosMedia.dll
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\obj\Debug\net6.0\refint\Bee_1064_PoaitivosMedia.dll
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\obj\Debug\net6.0\Bee_1064_PoaitivosMedia.pdb
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\obj\Debug\net6.0\Bee_1064_PoaitivosMedia.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1064_PoaitivosMedia\Bee_1064_PoaitivosMedia\obj\Debug\net6.0\ref\Bee_1064_PoaitivosMedia.dll

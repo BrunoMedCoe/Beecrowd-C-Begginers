@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\bin\Debug\net6.0\Bee_1094_Experiencias.exe
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\bin\Debug\net6.0\Bee_1094_Experiencias.deps.json
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\bin\Debug\net6.0\Bee_1094_Experiencias.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\bin\Debug\net6.0\Bee_1094_Experiencias.dll
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\bin\Debug\net6.0\Bee_1094_Experiencias.pdb
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\obj\Debug\net6.0\Bee_1094_Experiencias.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\obj\Debug\net6.0\Bee_1094_Experiencias.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\obj\Debug\net6.0\Bee_1094_Experiencias.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\obj\Debug\net6.0\Bee_1094_Experiencias.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\obj\Debug\net6.0\Bee_1094_Experiencias.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\obj\Debug\net6.0\Bee_1094_Experiencias.dll
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\obj\Debug\net6.0\refint\Bee_1094_Experiencias.dll
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\obj\Debug\net6.0\Bee_1094_Experiencias.pdb
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\obj\Debug\net6.0\Bee_1094_Experiencias.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1094_Experiencias\Bee_1094_Experiencias\obj\Debug\net6.0\ref\Bee_1094_Experiencias.dll

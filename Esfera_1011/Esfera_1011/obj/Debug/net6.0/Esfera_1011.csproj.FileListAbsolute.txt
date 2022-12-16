@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\bin\Debug\net6.0\Esfera_1011.exe
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\bin\Debug\net6.0\Esfera_1011.deps.json
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\bin\Debug\net6.0\Esfera_1011.runtimeconfig.json
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\bin\Debug\net6.0\Esfera_1011.dll
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\bin\Debug\net6.0\Esfera_1011.pdb
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.dll
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\obj\Debug\net6.0\refint\Esfera_1011.dll
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.pdb
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\obj\Debug\net6.0\Esfera_1011.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\Esfera_1011\Esfera_1011\obj\Debug\net6.0\ref\Esfera_1011.dll

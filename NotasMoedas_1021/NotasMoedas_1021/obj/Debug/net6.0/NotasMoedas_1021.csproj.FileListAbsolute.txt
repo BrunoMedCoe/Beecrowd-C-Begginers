@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\bin\Debug\net6.0\NotasMoedas_1021.exe
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\bin\Debug\net6.0\NotasMoedas_1021.deps.json
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\bin\Debug\net6.0\NotasMoedas_1021.runtimeconfig.json
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\bin\Debug\net6.0\NotasMoedas_1021.dll
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\bin\Debug\net6.0\NotasMoedas_1021.pdb
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\obj\Debug\net6.0\NotasMoedas_1021.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\obj\Debug\net6.0\NotasMoedas_1021.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\obj\Debug\net6.0\NotasMoedas_1021.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\obj\Debug\net6.0\NotasMoedas_1021.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\obj\Debug\net6.0\NotasMoedas_1021.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\obj\Debug\net6.0\NotasMoedas_1021.dll
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\obj\Debug\net6.0\refint\NotasMoedas_1021.dll
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\obj\Debug\net6.0\NotasMoedas_1021.pdb
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\obj\Debug\net6.0\NotasMoedas_1021.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\NotasMoedas_1021\NotasMoedas_1021\obj\Debug\net6.0\ref\NotasMoedas_1021.dll

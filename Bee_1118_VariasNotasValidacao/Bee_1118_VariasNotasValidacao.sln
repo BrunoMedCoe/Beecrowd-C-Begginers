@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee_1118_VariasNotasValidacao", "Bee_1118_VariasNotasValidacao\Bee_1118_VariasNotasValidacao.csproj", "{BB743A69-4DB5-44FE-A498-A2B22C2204FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB743A69-4DB5-44FE-A498-A2B22C2204FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB743A69-4DB5-44FE-A498-A2B22C2204FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB743A69-4DB5-44FE-A498-A2B22C2204FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB743A69-4DB5-44FE-A498-A2B22C2204FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE83EF18-1311-4BC3-86F9-21CCDC4F0EC4}
+	EndGlobalSection
+EndGlobal

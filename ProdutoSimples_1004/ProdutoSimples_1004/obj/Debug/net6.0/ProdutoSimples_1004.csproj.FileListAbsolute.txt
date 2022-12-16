@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\bin\Debug\net6.0\ProdutoSimples_1004.exe
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\bin\Debug\net6.0\ProdutoSimples_1004.deps.json
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\bin\Debug\net6.0\ProdutoSimples_1004.runtimeconfig.json
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\bin\Debug\net6.0\ProdutoSimples_1004.dll
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\bin\Debug\net6.0\ProdutoSimples_1004.pdb
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\obj\Debug\net6.0\ProdutoSimples_1004.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\obj\Debug\net6.0\ProdutoSimples_1004.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\obj\Debug\net6.0\ProdutoSimples_1004.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\obj\Debug\net6.0\ProdutoSimples_1004.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\obj\Debug\net6.0\ProdutoSimples_1004.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\obj\Debug\net6.0\ProdutoSimples_1004.dll
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\obj\Debug\net6.0\refint\ProdutoSimples_1004.dll
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\obj\Debug\net6.0\ProdutoSimples_1004.pdb
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\obj\Debug\net6.0\ProdutoSimples_1004.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\ProdutoSimples_1004\ProdutoSimples_1004\obj\Debug\net6.0\ref\ProdutoSimples_1004.dll

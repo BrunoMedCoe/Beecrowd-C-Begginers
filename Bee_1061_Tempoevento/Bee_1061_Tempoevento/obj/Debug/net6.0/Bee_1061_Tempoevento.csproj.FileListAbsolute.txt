@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\bin\Debug\net6.0\Bee_1061_Tempoevento.exe
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\bin\Debug\net6.0\Bee_1061_Tempoevento.deps.json
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\bin\Debug\net6.0\Bee_1061_Tempoevento.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\bin\Debug\net6.0\Bee_1061_Tempoevento.dll
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\bin\Debug\net6.0\Bee_1061_Tempoevento.pdb
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\obj\Debug\net6.0\Bee_1061_Tempoevento.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\obj\Debug\net6.0\Bee_1061_Tempoevento.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\obj\Debug\net6.0\Bee_1061_Tempoevento.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\obj\Debug\net6.0\Bee_1061_Tempoevento.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\obj\Debug\net6.0\Bee_1061_Tempoevento.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\obj\Debug\net6.0\Bee_1061_Tempoevento.dll
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\obj\Debug\net6.0\refint\Bee_1061_Tempoevento.dll
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\obj\Debug\net6.0\Bee_1061_Tempoevento.pdb
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\obj\Debug\net6.0\Bee_1061_Tempoevento.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1061_Tempoevento\Bee_1061_Tempoevento\obj\Debug\net6.0\ref\Bee_1061_Tempoevento.dll

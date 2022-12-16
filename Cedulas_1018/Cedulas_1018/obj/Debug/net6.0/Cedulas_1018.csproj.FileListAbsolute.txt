@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\bin\Debug\net6.0\Cedulas_1018.exe
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\bin\Debug\net6.0\Cedulas_1018.deps.json
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\bin\Debug\net6.0\Cedulas_1018.runtimeconfig.json
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\bin\Debug\net6.0\Cedulas_1018.dll
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\bin\Debug\net6.0\Cedulas_1018.pdb
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.dll
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\obj\Debug\net6.0\refint\Cedulas_1018.dll
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.pdb
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\Cedulas_1018\Cedulas_1018\obj\Debug\net6.0\ref\Cedulas_1018.dll

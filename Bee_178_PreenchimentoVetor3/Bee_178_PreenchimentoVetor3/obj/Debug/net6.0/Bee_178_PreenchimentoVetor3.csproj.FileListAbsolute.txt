@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\bin\Debug\net6.0\Bee_178_PreenchimentoVetor3.exe
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\bin\Debug\net6.0\Bee_178_PreenchimentoVetor3.deps.json
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\bin\Debug\net6.0\Bee_178_PreenchimentoVetor3.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\bin\Debug\net6.0\Bee_178_PreenchimentoVetor3.dll
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\bin\Debug\net6.0\Bee_178_PreenchimentoVetor3.pdb
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\obj\Debug\net6.0\Bee_178_PreenchimentoVetor3.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\obj\Debug\net6.0\Bee_178_PreenchimentoVetor3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\obj\Debug\net6.0\Bee_178_PreenchimentoVetor3.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\obj\Debug\net6.0\Bee_178_PreenchimentoVetor3.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\obj\Debug\net6.0\Bee_178_PreenchimentoVetor3.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\obj\Debug\net6.0\Bee_178_PreenchimentoVetor3.dll
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\obj\Debug\net6.0\refint\Bee_178_PreenchimentoVetor3.dll
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\obj\Debug\net6.0\Bee_178_PreenchimentoVetor3.pdb
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\obj\Debug\net6.0\Bee_178_PreenchimentoVetor3.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_178_PreenchimentoVetor3\Bee_178_PreenchimentoVetor3\obj\Debug\net6.0\ref\Bee_178_PreenchimentoVetor3.dll

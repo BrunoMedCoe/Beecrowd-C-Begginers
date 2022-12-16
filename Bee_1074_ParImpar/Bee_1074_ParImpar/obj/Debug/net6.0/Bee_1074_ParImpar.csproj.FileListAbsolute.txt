@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\obj\Debug\net6.0\Bee_1074_ParImpar.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\obj\Debug\net6.0\Bee_1074_ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\obj\Debug\net6.0\Bee_1074_ParImpar.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\obj\Debug\net6.0\Bee_1074_ParImpar.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\obj\Debug\net6.0\Bee_1074_ParImpar.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\bin\Debug\net6.0\Bee_1074_ParImpar.exe
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\bin\Debug\net6.0\Bee_1074_ParImpar.deps.json
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\bin\Debug\net6.0\Bee_1074_ParImpar.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\bin\Debug\net6.0\Bee_1074_ParImpar.dll
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\bin\Debug\net6.0\Bee_1074_ParImpar.pdb
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\obj\Debug\net6.0\Bee_1074_ParImpar.dll
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\obj\Debug\net6.0\refint\Bee_1074_ParImpar.dll
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\obj\Debug\net6.0\Bee_1074_ParImpar.pdb
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\obj\Debug\net6.0\Bee_1074_ParImpar.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1074_ParImpar\Bee_1074_ParImpar\obj\Debug\net6.0\ref\Bee_1074_ParImpar.dll

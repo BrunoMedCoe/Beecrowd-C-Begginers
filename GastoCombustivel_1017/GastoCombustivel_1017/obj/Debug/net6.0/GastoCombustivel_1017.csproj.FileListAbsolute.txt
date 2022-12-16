@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\bin\Debug\net6.0\GastoCombustivel_1017.exe
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\bin\Debug\net6.0\GastoCombustivel_1017.deps.json
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\bin\Debug\net6.0\GastoCombustivel_1017.runtimeconfig.json
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\bin\Debug\net6.0\GastoCombustivel_1017.dll
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\bin\Debug\net6.0\GastoCombustivel_1017.pdb
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\obj\Debug\net6.0\GastoCombustivel_1017.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\obj\Debug\net6.0\GastoCombustivel_1017.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\obj\Debug\net6.0\GastoCombustivel_1017.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\obj\Debug\net6.0\GastoCombustivel_1017.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\obj\Debug\net6.0\GastoCombustivel_1017.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\obj\Debug\net6.0\GastoCombustivel_1017.dll
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\obj\Debug\net6.0\refint\GastoCombustivel_1017.dll
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\obj\Debug\net6.0\GastoCombustivel_1017.pdb
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\obj\Debug\net6.0\GastoCombustivel_1017.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\GastoCombustivel_1017\GastoCombustivel_1017\obj\Debug\net6.0\ref\GastoCombustivel_1017.dll

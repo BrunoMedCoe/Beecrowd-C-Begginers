@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\bin\Debug\net6.0\Distancia_1016.exe
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\bin\Debug\net6.0\Distancia_1016.deps.json
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\bin\Debug\net6.0\Distancia_1016.runtimeconfig.json
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\bin\Debug\net6.0\Distancia_1016.dll
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\bin\Debug\net6.0\Distancia_1016.pdb
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\obj\Debug\net6.0\Distancia_1016.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\obj\Debug\net6.0\Distancia_1016.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\obj\Debug\net6.0\Distancia_1016.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\obj\Debug\net6.0\Distancia_1016.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\obj\Debug\net6.0\Distancia_1016.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\obj\Debug\net6.0\Distancia_1016.dll
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\obj\Debug\net6.0\refint\Distancia_1016.dll
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\obj\Debug\net6.0\Distancia_1016.pdb
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\obj\Debug\net6.0\Distancia_1016.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\Distancia_1016\Distancia_1016\obj\Debug\net6.0\ref\Distancia_1016.dll

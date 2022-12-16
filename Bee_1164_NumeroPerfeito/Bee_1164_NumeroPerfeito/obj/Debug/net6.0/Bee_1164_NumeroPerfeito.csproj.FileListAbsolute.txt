@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\bin\Debug\net6.0\Bee_1164_NumeroPerfeito.exe
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\bin\Debug\net6.0\Bee_1164_NumeroPerfeito.deps.json
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\bin\Debug\net6.0\Bee_1164_NumeroPerfeito.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\bin\Debug\net6.0\Bee_1164_NumeroPerfeito.dll
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\bin\Debug\net6.0\Bee_1164_NumeroPerfeito.pdb
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\obj\Debug\net6.0\Bee_1164_NumeroPerfeito.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\obj\Debug\net6.0\Bee_1164_NumeroPerfeito.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\obj\Debug\net6.0\Bee_1164_NumeroPerfeito.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\obj\Debug\net6.0\Bee_1164_NumeroPerfeito.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\obj\Debug\net6.0\Bee_1164_NumeroPerfeito.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\obj\Debug\net6.0\Bee_1164_NumeroPerfeito.dll
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\obj\Debug\net6.0\refint\Bee_1164_NumeroPerfeito.dll
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\obj\Debug\net6.0\Bee_1164_NumeroPerfeito.pdb
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\obj\Debug\net6.0\Bee_1164_NumeroPerfeito.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1164_NumeroPerfeito\Bee_1164_NumeroPerfeito\obj\Debug\net6.0\ref\Bee_1164_NumeroPerfeito.dll

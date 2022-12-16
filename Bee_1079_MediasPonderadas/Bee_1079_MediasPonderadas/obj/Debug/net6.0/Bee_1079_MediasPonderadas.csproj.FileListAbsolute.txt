@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\bin\Debug\net6.0\Bee_1079_MediasPonderadas.exe
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\bin\Debug\net6.0\Bee_1079_MediasPonderadas.deps.json
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\bin\Debug\net6.0\Bee_1079_MediasPonderadas.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\bin\Debug\net6.0\Bee_1079_MediasPonderadas.dll
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\bin\Debug\net6.0\Bee_1079_MediasPonderadas.pdb
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\obj\Debug\net6.0\Bee_1079_MediasPonderadas.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\obj\Debug\net6.0\Bee_1079_MediasPonderadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\obj\Debug\net6.0\Bee_1079_MediasPonderadas.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\obj\Debug\net6.0\Bee_1079_MediasPonderadas.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\obj\Debug\net6.0\Bee_1079_MediasPonderadas.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\obj\Debug\net6.0\Bee_1079_MediasPonderadas.dll
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\obj\Debug\net6.0\refint\Bee_1079_MediasPonderadas.dll
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\obj\Debug\net6.0\Bee_1079_MediasPonderadas.pdb
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\obj\Debug\net6.0\Bee_1079_MediasPonderadas.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1079_MediasPonderadas\Bee_1079_MediasPonderadas\obj\Debug\net6.0\ref\Bee_1079_MediasPonderadas.dll

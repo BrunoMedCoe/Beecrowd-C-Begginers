@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\bin\Debug\net6.0\Bee_1165_NumeroPrimo.exe
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\bin\Debug\net6.0\Bee_1165_NumeroPrimo.deps.json
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\bin\Debug\net6.0\Bee_1165_NumeroPrimo.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\bin\Debug\net6.0\Bee_1165_NumeroPrimo.dll
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\bin\Debug\net6.0\Bee_1165_NumeroPrimo.pdb
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\obj\Debug\net6.0\Bee_1165_NumeroPrimo.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\obj\Debug\net6.0\Bee_1165_NumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\obj\Debug\net6.0\Bee_1165_NumeroPrimo.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\obj\Debug\net6.0\Bee_1165_NumeroPrimo.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\obj\Debug\net6.0\Bee_1165_NumeroPrimo.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\obj\Debug\net6.0\Bee_1165_NumeroPrimo.dll
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\obj\Debug\net6.0\refint\Bee_1165_NumeroPrimo.dll
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\obj\Debug\net6.0\Bee_1165_NumeroPrimo.pdb
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\obj\Debug\net6.0\Bee_1165_NumeroPrimo.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1165_NumeroPrimo\Bee_1165_NumeroPrimo\obj\Debug\net6.0\ref\Bee_1165_NumeroPrimo.dll

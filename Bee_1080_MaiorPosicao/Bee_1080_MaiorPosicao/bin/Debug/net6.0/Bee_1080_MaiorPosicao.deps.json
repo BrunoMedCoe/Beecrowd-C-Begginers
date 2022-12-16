@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bee_1080_MaiorPosicao/1.0.0": {
+        "runtime": {
+          "Bee_1080_MaiorPosicao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bee_1080_MaiorPosicao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

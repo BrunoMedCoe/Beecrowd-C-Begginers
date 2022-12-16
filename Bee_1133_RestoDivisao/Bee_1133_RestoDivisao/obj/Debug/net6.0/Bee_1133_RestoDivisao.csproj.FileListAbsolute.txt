@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\bin\Debug\net6.0\Bee_1133_RestoDivisao.exe
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\bin\Debug\net6.0\Bee_1133_RestoDivisao.deps.json
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\bin\Debug\net6.0\Bee_1133_RestoDivisao.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\bin\Debug\net6.0\Bee_1133_RestoDivisao.dll
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\bin\Debug\net6.0\Bee_1133_RestoDivisao.pdb
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\obj\Debug\net6.0\Bee_1133_RestoDivisao.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\obj\Debug\net6.0\Bee_1133_RestoDivisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\obj\Debug\net6.0\Bee_1133_RestoDivisao.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\obj\Debug\net6.0\Bee_1133_RestoDivisao.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\obj\Debug\net6.0\Bee_1133_RestoDivisao.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\obj\Debug\net6.0\Bee_1133_RestoDivisao.dll
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\obj\Debug\net6.0\refint\Bee_1133_RestoDivisao.dll
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\obj\Debug\net6.0\Bee_1133_RestoDivisao.pdb
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\obj\Debug\net6.0\Bee_1133_RestoDivisao.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1133_RestoDivisao\Bee_1133_RestoDivisao\obj\Debug\net6.0\ref\Bee_1133_RestoDivisao.dll

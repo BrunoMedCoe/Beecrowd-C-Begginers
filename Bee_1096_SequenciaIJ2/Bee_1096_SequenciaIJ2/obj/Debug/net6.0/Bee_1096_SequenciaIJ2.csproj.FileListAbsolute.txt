@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\bin\Debug\net6.0\Bee_1096_SequenciaIJ2.exe
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\bin\Debug\net6.0\Bee_1096_SequenciaIJ2.deps.json
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\bin\Debug\net6.0\Bee_1096_SequenciaIJ2.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\bin\Debug\net6.0\Bee_1096_SequenciaIJ2.dll
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\bin\Debug\net6.0\Bee_1096_SequenciaIJ2.pdb
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\obj\Debug\net6.0\Bee_1096_SequenciaIJ2.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\obj\Debug\net6.0\Bee_1096_SequenciaIJ2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\obj\Debug\net6.0\Bee_1096_SequenciaIJ2.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\obj\Debug\net6.0\Bee_1096_SequenciaIJ2.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\obj\Debug\net6.0\Bee_1096_SequenciaIJ2.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\obj\Debug\net6.0\Bee_1096_SequenciaIJ2.dll
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\obj\Debug\net6.0\refint\Bee_1096_SequenciaIJ2.dll
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\obj\Debug\net6.0\Bee_1096_SequenciaIJ2.pdb
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\obj\Debug\net6.0\Bee_1096_SequenciaIJ2.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1096_SequenciaIJ2\Bee_1096_SequenciaIJ2\obj\Debug\net6.0\ref\Bee_1096_SequenciaIJ2.dll

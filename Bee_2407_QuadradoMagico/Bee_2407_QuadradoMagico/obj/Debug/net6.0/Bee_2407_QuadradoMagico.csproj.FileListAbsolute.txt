@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\bin\Debug\net6.0\Bee_2407_QuadradoMagico.exe
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\bin\Debug\net6.0\Bee_2407_QuadradoMagico.deps.json
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\bin\Debug\net6.0\Bee_2407_QuadradoMagico.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\bin\Debug\net6.0\Bee_2407_QuadradoMagico.dll
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\bin\Debug\net6.0\Bee_2407_QuadradoMagico.pdb
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\obj\Debug\net6.0\Bee_2407_QuadradoMagico.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\obj\Debug\net6.0\Bee_2407_QuadradoMagico.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\obj\Debug\net6.0\Bee_2407_QuadradoMagico.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\obj\Debug\net6.0\Bee_2407_QuadradoMagico.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\obj\Debug\net6.0\Bee_2407_QuadradoMagico.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\obj\Debug\net6.0\Bee_2407_QuadradoMagico.dll
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\obj\Debug\net6.0\refint\Bee_2407_QuadradoMagico.dll
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\obj\Debug\net6.0\Bee_2407_QuadradoMagico.pdb
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\obj\Debug\net6.0\Bee_2407_QuadradoMagico.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_2407_QuadradoMagico\Bee_2407_QuadradoMagico\obj\Debug\net6.0\ref\Bee_2407_QuadradoMagico.dll

@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\bin\Debug\net6.0\Bee_1182_ColunaMatriz.exe
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\bin\Debug\net6.0\Bee_1182_ColunaMatriz.deps.json
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\bin\Debug\net6.0\Bee_1182_ColunaMatriz.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\bin\Debug\net6.0\Bee_1182_ColunaMatriz.dll
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\bin\Debug\net6.0\Bee_1182_ColunaMatriz.pdb
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\obj\Debug\net6.0\Bee_1182_ColunaMatriz.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\obj\Debug\net6.0\Bee_1182_ColunaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\obj\Debug\net6.0\Bee_1182_ColunaMatriz.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\obj\Debug\net6.0\Bee_1182_ColunaMatriz.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\obj\Debug\net6.0\Bee_1182_ColunaMatriz.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\obj\Debug\net6.0\Bee_1182_ColunaMatriz.dll
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\obj\Debug\net6.0\refint\Bee_1182_ColunaMatriz.dll
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\obj\Debug\net6.0\Bee_1182_ColunaMatriz.pdb
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\obj\Debug\net6.0\Bee_1182_ColunaMatriz.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1182_ColunaMatriz\Bee_1182_ColunaMatriz\obj\Debug\net6.0\ref\Bee_1182_ColunaMatriz.dll

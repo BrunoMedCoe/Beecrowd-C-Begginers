@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\bin\Debug\net6.0\Diferenca_1007.exe
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\bin\Debug\net6.0\Diferenca_1007.deps.json
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\bin\Debug\net6.0\Diferenca_1007.runtimeconfig.json
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\bin\Debug\net6.0\Diferenca_1007.dll
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\bin\Debug\net6.0\Diferenca_1007.pdb
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\obj\Debug\net6.0\Diferenca_1007.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\obj\Debug\net6.0\Diferenca_1007.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\obj\Debug\net6.0\Diferenca_1007.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\obj\Debug\net6.0\Diferenca_1007.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\obj\Debug\net6.0\Diferenca_1007.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\obj\Debug\net6.0\Diferenca_1007.dll
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\obj\Debug\net6.0\refint\Diferenca_1007.dll
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\obj\Debug\net6.0\Diferenca_1007.pdb
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\obj\Debug\net6.0\Diferenca_1007.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\Diferenca_1007\Diferenca_1007\obj\Debug\net6.0\ref\Diferenca_1007.dll

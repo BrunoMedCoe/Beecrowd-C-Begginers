@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\bin\Debug\net6.0\Bee_1117_ValidacaoNota.exe
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\bin\Debug\net6.0\Bee_1117_ValidacaoNota.deps.json
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\bin\Debug\net6.0\Bee_1117_ValidacaoNota.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\bin\Debug\net6.0\Bee_1117_ValidacaoNota.dll
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\bin\Debug\net6.0\Bee_1117_ValidacaoNota.pdb
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\obj\Debug\net6.0\Bee_1117_ValidacaoNota.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\obj\Debug\net6.0\Bee_1117_ValidacaoNota.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\obj\Debug\net6.0\Bee_1117_ValidacaoNota.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\obj\Debug\net6.0\Bee_1117_ValidacaoNota.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\obj\Debug\net6.0\Bee_1117_ValidacaoNota.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\obj\Debug\net6.0\Bee_1117_ValidacaoNota.dll
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\obj\Debug\net6.0\refint\Bee_1117_ValidacaoNota.dll
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\obj\Debug\net6.0\Bee_1117_ValidacaoNota.pdb
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\obj\Debug\net6.0\Bee_1117_ValidacaoNota.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1117_ValidacaoNota\Bee_1117_ValidacaoNota\obj\Debug\net6.0\ref\Bee_1117_ValidacaoNota.dll

@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\bin\Debug\net6.0\Bee_1172_SubstituicaoVetor1.exe
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\bin\Debug\net6.0\Bee_1172_SubstituicaoVetor1.deps.json
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\bin\Debug\net6.0\Bee_1172_SubstituicaoVetor1.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\bin\Debug\net6.0\Bee_1172_SubstituicaoVetor1.dll
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\bin\Debug\net6.0\Bee_1172_SubstituicaoVetor1.pdb
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\obj\Debug\net6.0\Bee_1172_SubstituicaoVetor1.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\obj\Debug\net6.0\Bee_1172_SubstituicaoVetor1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\obj\Debug\net6.0\Bee_1172_SubstituicaoVetor1.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\obj\Debug\net6.0\Bee_1172_SubstituicaoVetor1.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\obj\Debug\net6.0\Bee_1172_SubstituicaoVetor1.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\obj\Debug\net6.0\Bee_1172_SubstituicaoVetor1.dll
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\obj\Debug\net6.0\refint\Bee_1172_SubstituicaoVetor1.dll
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\obj\Debug\net6.0\Bee_1172_SubstituicaoVetor1.pdb
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\obj\Debug\net6.0\Bee_1172_SubstituicaoVetor1.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1172_SubstituicaoVetor1\Bee_1172_SubstituicaoVetor1\obj\Debug\net6.0\ref\Bee_1172_SubstituicaoVetor1.dll

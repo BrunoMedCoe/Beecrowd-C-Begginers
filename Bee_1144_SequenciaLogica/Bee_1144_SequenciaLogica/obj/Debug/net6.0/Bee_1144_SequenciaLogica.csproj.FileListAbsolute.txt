@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\bin\Debug\net6.0\Bee_1144_SequenciaLogica.exe
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\bin\Debug\net6.0\Bee_1144_SequenciaLogica.deps.json
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\bin\Debug\net6.0\Bee_1144_SequenciaLogica.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\bin\Debug\net6.0\Bee_1144_SequenciaLogica.dll
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\bin\Debug\net6.0\Bee_1144_SequenciaLogica.pdb
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\obj\Debug\net6.0\Bee_1144_SequenciaLogica.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\obj\Debug\net6.0\Bee_1144_SequenciaLogica.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\obj\Debug\net6.0\Bee_1144_SequenciaLogica.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\obj\Debug\net6.0\Bee_1144_SequenciaLogica.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\obj\Debug\net6.0\Bee_1144_SequenciaLogica.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\obj\Debug\net6.0\Bee_1144_SequenciaLogica.dll
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\obj\Debug\net6.0\refint\Bee_1144_SequenciaLogica.dll
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\obj\Debug\net6.0\Bee_1144_SequenciaLogica.pdb
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\obj\Debug\net6.0\Bee_1144_SequenciaLogica.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica\obj\Debug\net6.0\ref\Bee_1144_SequenciaLogica.dll

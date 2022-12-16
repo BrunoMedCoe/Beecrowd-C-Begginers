@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\bin\Debug\net6.0\Bee_1072_Intervalo2.exe
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\bin\Debug\net6.0\Bee_1072_Intervalo2.deps.json
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\bin\Debug\net6.0\Bee_1072_Intervalo2.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\bin\Debug\net6.0\Bee_1072_Intervalo2.dll
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\bin\Debug\net6.0\Bee_1072_Intervalo2.pdb
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\obj\Debug\net6.0\Bee_1072_Intervalo2.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\obj\Debug\net6.0\Bee_1072_Intervalo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\obj\Debug\net6.0\Bee_1072_Intervalo2.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\obj\Debug\net6.0\Bee_1072_Intervalo2.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\obj\Debug\net6.0\Bee_1072_Intervalo2.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\obj\Debug\net6.0\Bee_1072_Intervalo2.dll
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\obj\Debug\net6.0\refint\Bee_1072_Intervalo2.dll
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\obj\Debug\net6.0\Bee_1072_Intervalo2.pdb
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\obj\Debug\net6.0\Bee_1072_Intervalo2.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1072_Intervalo2\Bee_1072_Intervalo2\obj\Debug\net6.0\ref\Bee_1072_Intervalo2.dll

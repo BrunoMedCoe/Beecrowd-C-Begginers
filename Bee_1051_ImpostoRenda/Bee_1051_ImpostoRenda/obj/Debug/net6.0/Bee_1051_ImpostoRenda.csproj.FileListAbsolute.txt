@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\bin\Debug\net6.0\Bee_1051_ImpostoRenda.exe
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\bin\Debug\net6.0\Bee_1051_ImpostoRenda.deps.json
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\bin\Debug\net6.0\Bee_1051_ImpostoRenda.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\bin\Debug\net6.0\Bee_1051_ImpostoRenda.dll
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\bin\Debug\net6.0\Bee_1051_ImpostoRenda.pdb
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\obj\Debug\net6.0\Bee_1051_ImpostoRenda.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\obj\Debug\net6.0\Bee_1051_ImpostoRenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\obj\Debug\net6.0\Bee_1051_ImpostoRenda.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\obj\Debug\net6.0\Bee_1051_ImpostoRenda.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\obj\Debug\net6.0\Bee_1051_ImpostoRenda.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\obj\Debug\net6.0\Bee_1051_ImpostoRenda.dll
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\obj\Debug\net6.0\refint\Bee_1051_ImpostoRenda.dll
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\obj\Debug\net6.0\Bee_1051_ImpostoRenda.pdb
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\obj\Debug\net6.0\Bee_1051_ImpostoRenda.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1051_ImpostoRenda\Bee_1051_ImpostoRenda\obj\Debug\net6.0\ref\Bee_1051_ImpostoRenda.dll

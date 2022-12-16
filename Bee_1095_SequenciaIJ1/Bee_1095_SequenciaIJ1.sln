@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee_1095_SequenciaIJ1", "Bee_1095_SequenciaIJ1\Bee_1095_SequenciaIJ1.csproj", "{CE12E4C8-C666-46B9-9B88-14B115776AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE12E4C8-C666-46B9-9B88-14B115776AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE12E4C8-C666-46B9-9B88-14B115776AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE12E4C8-C666-46B9-9B88-14B115776AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE12E4C8-C666-46B9-9B88-14B115776AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17CD39C0-85CB-40B1-8C8D-47C57DDE8F1C}
+	EndGlobalSection
+EndGlobal

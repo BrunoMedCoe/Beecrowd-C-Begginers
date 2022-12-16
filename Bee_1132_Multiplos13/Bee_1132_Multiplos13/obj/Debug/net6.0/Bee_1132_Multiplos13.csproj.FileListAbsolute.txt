@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\bin\Debug\net6.0\Bee_1132_Multiplos13.exe
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\bin\Debug\net6.0\Bee_1132_Multiplos13.deps.json
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\bin\Debug\net6.0\Bee_1132_Multiplos13.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\bin\Debug\net6.0\Bee_1132_Multiplos13.dll
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\bin\Debug\net6.0\Bee_1132_Multiplos13.pdb
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\obj\Debug\net6.0\Bee_1132_Multiplos13.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\obj\Debug\net6.0\Bee_1132_Multiplos13.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\obj\Debug\net6.0\Bee_1132_Multiplos13.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\obj\Debug\net6.0\Bee_1132_Multiplos13.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\obj\Debug\net6.0\Bee_1132_Multiplos13.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\obj\Debug\net6.0\Bee_1132_Multiplos13.dll
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\obj\Debug\net6.0\refint\Bee_1132_Multiplos13.dll
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\obj\Debug\net6.0\Bee_1132_Multiplos13.pdb
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\obj\Debug\net6.0\Bee_1132_Multiplos13.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1132_Multiplos13\Bee_1132_Multiplos13\obj\Debug\net6.0\ref\Bee_1132_Multiplos13.dll

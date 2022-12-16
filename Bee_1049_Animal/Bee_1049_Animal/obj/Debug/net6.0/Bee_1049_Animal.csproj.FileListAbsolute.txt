@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\bin\Debug\net6.0\Bee_1049_Animal.exe
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\bin\Debug\net6.0\Bee_1049_Animal.deps.json
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\bin\Debug\net6.0\Bee_1049_Animal.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\bin\Debug\net6.0\Bee_1049_Animal.dll
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\bin\Debug\net6.0\Bee_1049_Animal.pdb
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\obj\Debug\net6.0\Bee_1049_Animal.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\obj\Debug\net6.0\Bee_1049_Animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\obj\Debug\net6.0\Bee_1049_Animal.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\obj\Debug\net6.0\Bee_1049_Animal.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\obj\Debug\net6.0\Bee_1049_Animal.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\obj\Debug\net6.0\Bee_1049_Animal.dll
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\obj\Debug\net6.0\refint\Bee_1049_Animal.dll
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\obj\Debug\net6.0\Bee_1049_Animal.pdb
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\obj\Debug\net6.0\Bee_1049_Animal.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1049_Animal\Bee_1049_Animal\obj\Debug\net6.0\ref\Bee_1049_Animal.dll

@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\bin\Debug\net6.0\Bee_1131_Grenais.exe
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\bin\Debug\net6.0\Bee_1131_Grenais.deps.json
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\bin\Debug\net6.0\Bee_1131_Grenais.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\bin\Debug\net6.0\Bee_1131_Grenais.dll
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\bin\Debug\net6.0\Bee_1131_Grenais.pdb
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\obj\Debug\net6.0\Bee_1131_Grenais.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\obj\Debug\net6.0\Bee_1131_Grenais.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\obj\Debug\net6.0\Bee_1131_Grenais.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\obj\Debug\net6.0\Bee_1131_Grenais.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\obj\Debug\net6.0\Bee_1131_Grenais.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\obj\Debug\net6.0\Bee_1131_Grenais.dll
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\obj\Debug\net6.0\refint\Bee_1131_Grenais.dll
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\obj\Debug\net6.0\Bee_1131_Grenais.pdb
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\obj\Debug\net6.0\Bee_1131_Grenais.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1131_Grenais\Bee_1131_Grenais\obj\Debug\net6.0\ref\Bee_1131_Grenais.dll

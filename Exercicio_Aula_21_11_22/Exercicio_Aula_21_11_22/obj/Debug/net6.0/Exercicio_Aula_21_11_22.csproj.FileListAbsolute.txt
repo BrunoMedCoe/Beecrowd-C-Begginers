@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\bin\Debug\net6.0\Exercicio_Aula_21_11_22.exe
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\bin\Debug\net6.0\Exercicio_Aula_21_11_22.deps.json
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\bin\Debug\net6.0\Exercicio_Aula_21_11_22.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\bin\Debug\net6.0\Exercicio_Aula_21_11_22.dll
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\bin\Debug\net6.0\Exercicio_Aula_21_11_22.pdb
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\obj\Debug\net6.0\Exercicio_Aula_21_11_22.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\obj\Debug\net6.0\Exercicio_Aula_21_11_22.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\obj\Debug\net6.0\Exercicio_Aula_21_11_22.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\obj\Debug\net6.0\Exercicio_Aula_21_11_22.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\obj\Debug\net6.0\Exercicio_Aula_21_11_22.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\obj\Debug\net6.0\Exercicio_Aula_21_11_22.dll
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\obj\Debug\net6.0\refint\Exercicio_Aula_21_11_22.dll
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\obj\Debug\net6.0\Exercicio_Aula_21_11_22.pdb
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\obj\Debug\net6.0\Exercicio_Aula_21_11_22.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Exercicio_Aula_21_11_22\Exercicio_Aula_21_11_22\obj\Debug\net6.0\ref\Exercicio_Aula_21_11_22.dll

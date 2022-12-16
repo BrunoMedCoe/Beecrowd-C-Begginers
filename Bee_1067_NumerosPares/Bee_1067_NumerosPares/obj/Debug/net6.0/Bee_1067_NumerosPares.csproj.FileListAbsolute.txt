@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\bin\Debug\net6.0\Bee_1067_NumerosPares.exe
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\bin\Debug\net6.0\Bee_1067_NumerosPares.deps.json
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\bin\Debug\net6.0\Bee_1067_NumerosPares.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\bin\Debug\net6.0\Bee_1067_NumerosPares.dll
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\bin\Debug\net6.0\Bee_1067_NumerosPares.pdb
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\obj\Debug\net6.0\Bee_1067_NumerosPares.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\obj\Debug\net6.0\Bee_1067_NumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\obj\Debug\net6.0\Bee_1067_NumerosPares.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\obj\Debug\net6.0\Bee_1067_NumerosPares.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\obj\Debug\net6.0\Bee_1067_NumerosPares.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\obj\Debug\net6.0\Bee_1067_NumerosPares.dll
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\obj\Debug\net6.0\refint\Bee_1067_NumerosPares.dll
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\obj\Debug\net6.0\Bee_1067_NumerosPares.pdb
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\obj\Debug\net6.0\Bee_1067_NumerosPares.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1067_NumerosPares\Bee_1067_NumerosPares\obj\Debug\net6.0\ref\Bee_1067_NumerosPares.dll

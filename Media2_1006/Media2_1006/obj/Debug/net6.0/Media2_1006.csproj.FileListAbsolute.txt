@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\bin\Debug\net6.0\Media2_1006.exe
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\bin\Debug\net6.0\Media2_1006.deps.json
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\bin\Debug\net6.0\Media2_1006.runtimeconfig.json
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\bin\Debug\net6.0\Media2_1006.dll
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\bin\Debug\net6.0\Media2_1006.pdb
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.dll
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\refint\Media2_1006.dll
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.pdb
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\Media2_1006.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\Media2_1006\Media2_1006\obj\Debug\net6.0\ref\Media2_1006.dll

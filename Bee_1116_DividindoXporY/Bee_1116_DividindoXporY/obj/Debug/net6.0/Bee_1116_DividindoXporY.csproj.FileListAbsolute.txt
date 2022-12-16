@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\bin\Debug\net6.0\Bee_1116_DividindoXporY.exe
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\bin\Debug\net6.0\Bee_1116_DividindoXporY.deps.json
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\bin\Debug\net6.0\Bee_1116_DividindoXporY.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\bin\Debug\net6.0\Bee_1116_DividindoXporY.dll
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\bin\Debug\net6.0\Bee_1116_DividindoXporY.pdb
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\obj\Debug\net6.0\Bee_1116_DividindoXporY.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\obj\Debug\net6.0\Bee_1116_DividindoXporY.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\obj\Debug\net6.0\Bee_1116_DividindoXporY.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\obj\Debug\net6.0\Bee_1116_DividindoXporY.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\obj\Debug\net6.0\Bee_1116_DividindoXporY.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\obj\Debug\net6.0\Bee_1116_DividindoXporY.dll
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\obj\Debug\net6.0\refint\Bee_1116_DividindoXporY.dll
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\obj\Debug\net6.0\Bee_1116_DividindoXporY.pdb
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\obj\Debug\net6.0\Bee_1116_DividindoXporY.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1116_DividindoXporY\Bee_1116_DividindoXporY\obj\Debug\net6.0\ref\Bee_1116_DividindoXporY.dll

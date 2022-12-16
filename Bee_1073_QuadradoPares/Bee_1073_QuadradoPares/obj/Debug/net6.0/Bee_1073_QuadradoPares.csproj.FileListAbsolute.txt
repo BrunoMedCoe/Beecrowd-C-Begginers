@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\bin\Debug\net6.0\Bee_1073_QuadradoPares.exe
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\bin\Debug\net6.0\Bee_1073_QuadradoPares.deps.json
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\bin\Debug\net6.0\Bee_1073_QuadradoPares.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\bin\Debug\net6.0\Bee_1073_QuadradoPares.dll
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\bin\Debug\net6.0\Bee_1073_QuadradoPares.pdb
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\obj\Debug\net6.0\Bee_1073_QuadradoPares.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\obj\Debug\net6.0\Bee_1073_QuadradoPares.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\obj\Debug\net6.0\Bee_1073_QuadradoPares.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\obj\Debug\net6.0\Bee_1073_QuadradoPares.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\obj\Debug\net6.0\Bee_1073_QuadradoPares.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\obj\Debug\net6.0\Bee_1073_QuadradoPares.dll
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\obj\Debug\net6.0\refint\Bee_1073_QuadradoPares.dll
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\obj\Debug\net6.0\Bee_1073_QuadradoPares.pdb
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\obj\Debug\net6.0\Bee_1073_QuadradoPares.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1073_QuadradoPares\Bee_1073_QuadradoPares\obj\Debug\net6.0\ref\Bee_1073_QuadradoPares.dll

@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\obj\Debug\net6.0\ConversaoTempo_1019.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\obj\Debug\net6.0\ConversaoTempo_1019.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\obj\Debug\net6.0\ConversaoTempo_1019.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\obj\Debug\net6.0\ConversaoTempo_1019.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\obj\Debug\net6.0\ConversaoTempo_1019.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\bin\Debug\net6.0\ConversaoTempo_1019.exe
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\bin\Debug\net6.0\ConversaoTempo_1019.deps.json
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\bin\Debug\net6.0\ConversaoTempo_1019.runtimeconfig.json
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\bin\Debug\net6.0\ConversaoTempo_1019.dll
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\bin\Debug\net6.0\ConversaoTempo_1019.pdb
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\obj\Debug\net6.0\ConversaoTempo_1019.dll
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\obj\Debug\net6.0\refint\ConversaoTempo_1019.dll
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\obj\Debug\net6.0\ConversaoTempo_1019.pdb
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\obj\Debug\net6.0\ConversaoTempo_1019.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\ConversaoTempo_1019\ConversaoTempo_1019\obj\Debug\net6.0\ref\ConversaoTempo_1019.dll

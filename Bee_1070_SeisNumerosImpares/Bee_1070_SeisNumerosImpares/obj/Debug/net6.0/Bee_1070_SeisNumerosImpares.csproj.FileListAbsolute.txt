@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\bin\Debug\net6.0\Bee_1070_SeisNumerosImpares.exe
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\bin\Debug\net6.0\Bee_1070_SeisNumerosImpares.deps.json
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\bin\Debug\net6.0\Bee_1070_SeisNumerosImpares.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\bin\Debug\net6.0\Bee_1070_SeisNumerosImpares.dll
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\bin\Debug\net6.0\Bee_1070_SeisNumerosImpares.pdb
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\obj\Debug\net6.0\Bee_1070_SeisNumerosImpares.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\obj\Debug\net6.0\Bee_1070_SeisNumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\obj\Debug\net6.0\Bee_1070_SeisNumerosImpares.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\obj\Debug\net6.0\Bee_1070_SeisNumerosImpares.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\obj\Debug\net6.0\Bee_1070_SeisNumerosImpares.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\obj\Debug\net6.0\Bee_1070_SeisNumerosImpares.dll
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\obj\Debug\net6.0\refint\Bee_1070_SeisNumerosImpares.dll
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\obj\Debug\net6.0\Bee_1070_SeisNumerosImpares.pdb
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\obj\Debug\net6.0\Bee_1070_SeisNumerosImpares.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1070_SeisNumerosImpares\Bee_1070_SeisNumerosImpares\obj\Debug\net6.0\ref\Bee_1070_SeisNumerosImpares.dll

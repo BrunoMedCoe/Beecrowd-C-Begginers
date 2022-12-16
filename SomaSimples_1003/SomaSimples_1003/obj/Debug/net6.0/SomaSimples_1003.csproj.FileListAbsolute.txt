@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\bin\Debug\net6.0\SomaSimples_1003.exe
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\bin\Debug\net6.0\SomaSimples_1003.deps.json
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\bin\Debug\net6.0\SomaSimples_1003.runtimeconfig.json
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\bin\Debug\net6.0\SomaSimples_1003.dll
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\bin\Debug\net6.0\SomaSimples_1003.pdb
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.dll
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\refint\SomaSimples_1003.dll
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.pdb
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\ref\SomaSimples_1003.dll

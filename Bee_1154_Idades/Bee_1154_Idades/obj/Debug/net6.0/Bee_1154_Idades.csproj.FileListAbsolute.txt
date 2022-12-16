@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\bin\Debug\net6.0\Bee_1154_Idades.exe
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\bin\Debug\net6.0\Bee_1154_Idades.deps.json
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\bin\Debug\net6.0\Bee_1154_Idades.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\bin\Debug\net6.0\Bee_1154_Idades.dll
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\bin\Debug\net6.0\Bee_1154_Idades.pdb
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\obj\Debug\net6.0\Bee_1154_Idades.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\obj\Debug\net6.0\Bee_1154_Idades.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\obj\Debug\net6.0\Bee_1154_Idades.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\obj\Debug\net6.0\Bee_1154_Idades.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\obj\Debug\net6.0\Bee_1154_Idades.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\obj\Debug\net6.0\Bee_1154_Idades.dll
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\obj\Debug\net6.0\refint\Bee_1154_Idades.dll
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\obj\Debug\net6.0\Bee_1154_Idades.pdb
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\obj\Debug\net6.0\Bee_1154_Idades.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1154_Idades\Bee_1154_Idades\obj\Debug\net6.0\ref\Bee_1154_Idades.dll

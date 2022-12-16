@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\bin\Debug\net6.0\Bee_1045_TiposTriangulos.exe
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\bin\Debug\net6.0\Bee_1045_TiposTriangulos.deps.json
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\bin\Debug\net6.0\Bee_1045_TiposTriangulos.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\bin\Debug\net6.0\Bee_1045_TiposTriangulos.dll
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\bin\Debug\net6.0\Bee_1045_TiposTriangulos.pdb
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\obj\Debug\net6.0\Bee_1045_TiposTriangulos.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\obj\Debug\net6.0\Bee_1045_TiposTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\obj\Debug\net6.0\Bee_1045_TiposTriangulos.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\obj\Debug\net6.0\Bee_1045_TiposTriangulos.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\obj\Debug\net6.0\Bee_1045_TiposTriangulos.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\obj\Debug\net6.0\Bee_1045_TiposTriangulos.dll
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\obj\Debug\net6.0\refint\Bee_1045_TiposTriangulos.dll
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\obj\Debug\net6.0\Bee_1045_TiposTriangulos.pdb
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\obj\Debug\net6.0\Bee_1045_TiposTriangulos.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1045_TiposTriangulos\Bee_1045_TiposTriangulos\obj\Debug\net6.0\ref\Bee_1045_TiposTriangulos.dll

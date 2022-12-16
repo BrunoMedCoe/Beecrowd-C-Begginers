@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\bin\Debug\net6.0\Bee_1050_DDD.exe
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\bin\Debug\net6.0\Bee_1050_DDD.deps.json
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\bin\Debug\net6.0\Bee_1050_DDD.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\bin\Debug\net6.0\Bee_1050_DDD.dll
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\bin\Debug\net6.0\Bee_1050_DDD.pdb
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\obj\Debug\net6.0\Bee_1050_DDD.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\obj\Debug\net6.0\Bee_1050_DDD.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\obj\Debug\net6.0\Bee_1050_DDD.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\obj\Debug\net6.0\Bee_1050_DDD.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\obj\Debug\net6.0\Bee_1050_DDD.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\obj\Debug\net6.0\Bee_1050_DDD.dll
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\obj\Debug\net6.0\refint\Bee_1050_DDD.dll
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\obj\Debug\net6.0\Bee_1050_DDD.pdb
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\obj\Debug\net6.0\Bee_1050_DDD.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1050_DDD\Bee_1050_DDD\obj\Debug\net6.0\ref\Bee_1050_DDD.dll

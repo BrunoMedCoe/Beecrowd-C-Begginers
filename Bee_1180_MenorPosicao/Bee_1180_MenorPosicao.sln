@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee_1180_MenorPosicao", "Bee_1180_MenorPosicao\Bee_1180_MenorPosicao.csproj", "{1496EC8E-73DD-4823-A39F-C0C3C05D34F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1496EC8E-73DD-4823-A39F-C0C3C05D34F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1496EC8E-73DD-4823-A39F-C0C3C05D34F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1496EC8E-73DD-4823-A39F-C0C3C05D34F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1496EC8E-73DD-4823-A39F-C0C3C05D34F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA3E189C-287C-4413-9AE3-DD842C6A5E9D}
+	EndGlobalSection
+EndGlobal

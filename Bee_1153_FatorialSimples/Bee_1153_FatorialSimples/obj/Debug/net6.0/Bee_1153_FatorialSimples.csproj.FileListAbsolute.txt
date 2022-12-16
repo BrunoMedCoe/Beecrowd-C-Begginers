@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\bin\Debug\net6.0\Bee_1153_FatorialSimples.exe
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\bin\Debug\net6.0\Bee_1153_FatorialSimples.deps.json
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\bin\Debug\net6.0\Bee_1153_FatorialSimples.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\bin\Debug\net6.0\Bee_1153_FatorialSimples.dll
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\bin\Debug\net6.0\Bee_1153_FatorialSimples.pdb
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\obj\Debug\net6.0\Bee_1153_FatorialSimples.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\obj\Debug\net6.0\Bee_1153_FatorialSimples.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\obj\Debug\net6.0\Bee_1153_FatorialSimples.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\obj\Debug\net6.0\Bee_1153_FatorialSimples.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\obj\Debug\net6.0\Bee_1153_FatorialSimples.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\obj\Debug\net6.0\Bee_1153_FatorialSimples.dll
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\obj\Debug\net6.0\refint\Bee_1153_FatorialSimples.dll
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\obj\Debug\net6.0\Bee_1153_FatorialSimples.pdb
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\obj\Debug\net6.0\Bee_1153_FatorialSimples.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1153_FatorialSimples\Bee_1153_FatorialSimples\obj\Debug\net6.0\ref\Bee_1153_FatorialSimples.dll

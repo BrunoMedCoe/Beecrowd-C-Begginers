@@ -1,0 +1,15 @@
+C:\SarpCoders\Beecrowd\Beecrowd\bin\Debug\net6.0\Beecrowd.exe
+C:\SarpCoders\Beecrowd\Beecrowd\bin\Debug\net6.0\Beecrowd.deps.json
+C:\SarpCoders\Beecrowd\Beecrowd\bin\Debug\net6.0\Beecrowd.runtimeconfig.json
+C:\SarpCoders\Beecrowd\Beecrowd\bin\Debug\net6.0\Beecrowd.dll
+C:\SarpCoders\Beecrowd\Beecrowd\bin\Debug\net6.0\Beecrowd.pdb
+C:\SarpCoders\Beecrowd\Beecrowd\obj\Debug\net6.0\Beecrowd.csproj.AssemblyReference.cache
+C:\SarpCoders\Beecrowd\Beecrowd\obj\Debug\net6.0\Beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\SarpCoders\Beecrowd\Beecrowd\obj\Debug\net6.0\Beecrowd.AssemblyInfoInputs.cache
+C:\SarpCoders\Beecrowd\Beecrowd\obj\Debug\net6.0\Beecrowd.AssemblyInfo.cs
+C:\SarpCoders\Beecrowd\Beecrowd\obj\Debug\net6.0\Beecrowd.csproj.CoreCompileInputs.cache
+C:\SarpCoders\Beecrowd\Beecrowd\obj\Debug\net6.0\Beecrowd.dll
+C:\SarpCoders\Beecrowd\Beecrowd\obj\Debug\net6.0\refint\Beecrowd.dll
+C:\SarpCoders\Beecrowd\Beecrowd\obj\Debug\net6.0\Beecrowd.pdb
+C:\SarpCoders\Beecrowd\Beecrowd\obj\Debug\net6.0\Beecrowd.genruntimeconfig.cache
+C:\SarpCoders\Beecrowd\Beecrowd\obj\Debug\net6.0\ref\Beecrowd.dll

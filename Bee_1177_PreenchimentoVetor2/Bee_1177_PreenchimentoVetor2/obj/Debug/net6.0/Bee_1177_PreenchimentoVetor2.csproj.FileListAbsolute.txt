@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\bin\Debug\net6.0\Bee_1177_PreenchimentoVetor2.exe
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\bin\Debug\net6.0\Bee_1177_PreenchimentoVetor2.deps.json
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\bin\Debug\net6.0\Bee_1177_PreenchimentoVetor2.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\bin\Debug\net6.0\Bee_1177_PreenchimentoVetor2.dll
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\bin\Debug\net6.0\Bee_1177_PreenchimentoVetor2.pdb
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\obj\Debug\net6.0\Bee_1177_PreenchimentoVetor2.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\obj\Debug\net6.0\Bee_1177_PreenchimentoVetor2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\obj\Debug\net6.0\Bee_1177_PreenchimentoVetor2.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\obj\Debug\net6.0\Bee_1177_PreenchimentoVetor2.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\obj\Debug\net6.0\Bee_1177_PreenchimentoVetor2.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\obj\Debug\net6.0\Bee_1177_PreenchimentoVetor2.dll
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\obj\Debug\net6.0\refint\Bee_1177_PreenchimentoVetor2.dll
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\obj\Debug\net6.0\Bee_1177_PreenchimentoVetor2.pdb
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\obj\Debug\net6.0\Bee_1177_PreenchimentoVetor2.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1177_PreenchimentoVetor2\Bee_1177_PreenchimentoVetor2\obj\Debug\net6.0\ref\Bee_1177_PreenchimentoVetor2.dll

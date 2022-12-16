@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\bin\Debug\net6.0\Bee_1134_TipoCombustivel.exe
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\bin\Debug\net6.0\Bee_1134_TipoCombustivel.deps.json
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\bin\Debug\net6.0\Bee_1134_TipoCombustivel.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\bin\Debug\net6.0\Bee_1134_TipoCombustivel.dll
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\bin\Debug\net6.0\Bee_1134_TipoCombustivel.pdb
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\obj\Debug\net6.0\Bee_1134_TipoCombustivel.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\obj\Debug\net6.0\Bee_1134_TipoCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\obj\Debug\net6.0\Bee_1134_TipoCombustivel.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\obj\Debug\net6.0\Bee_1134_TipoCombustivel.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\obj\Debug\net6.0\Bee_1134_TipoCombustivel.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\obj\Debug\net6.0\Bee_1134_TipoCombustivel.dll
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\obj\Debug\net6.0\refint\Bee_1134_TipoCombustivel.dll
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\obj\Debug\net6.0\Bee_1134_TipoCombustivel.pdb
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\obj\Debug\net6.0\Bee_1134_TipoCombustivel.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1134_TipoCombustivel\Bee_1134_TipoCombustivel\obj\Debug\net6.0\ref\Bee_1134_TipoCombustivel.dll

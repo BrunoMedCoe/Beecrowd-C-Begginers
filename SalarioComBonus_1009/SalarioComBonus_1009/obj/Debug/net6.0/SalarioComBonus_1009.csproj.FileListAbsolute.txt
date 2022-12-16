@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\bin\Debug\net6.0\SalarioComBonus_1009.exe
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\bin\Debug\net6.0\SalarioComBonus_1009.deps.json
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\bin\Debug\net6.0\SalarioComBonus_1009.runtimeconfig.json
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\bin\Debug\net6.0\SalarioComBonus_1009.dll
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\bin\Debug\net6.0\SalarioComBonus_1009.pdb
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.dll
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\refint\SalarioComBonus_1009.dll
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.pdb
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\SalarioComBonus_1009.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\SalarioComBonus_1009\SalarioComBonus_1009\obj\Debug\net6.0\ref\SalarioComBonus_1009.dll

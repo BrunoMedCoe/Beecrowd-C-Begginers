@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\bin\Debug\net6.0\Bee_1060_NumerosPositivos.exe
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\bin\Debug\net6.0\Bee_1060_NumerosPositivos.deps.json
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\bin\Debug\net6.0\Bee_1060_NumerosPositivos.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\bin\Debug\net6.0\Bee_1060_NumerosPositivos.dll
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\bin\Debug\net6.0\Bee_1060_NumerosPositivos.pdb
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\obj\Debug\net6.0\Bee_1060_NumerosPositivos.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\obj\Debug\net6.0\Bee_1060_NumerosPositivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\obj\Debug\net6.0\Bee_1060_NumerosPositivos.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\obj\Debug\net6.0\Bee_1060_NumerosPositivos.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\obj\Debug\net6.0\Bee_1060_NumerosPositivos.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\obj\Debug\net6.0\Bee_1060_NumerosPositivos.dll
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\obj\Debug\net6.0\refint\Bee_1060_NumerosPositivos.dll
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\obj\Debug\net6.0\Bee_1060_NumerosPositivos.pdb
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\obj\Debug\net6.0\Bee_1060_NumerosPositivos.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1060_NumerosPositivos\Bee_1060_NumerosPositivos\obj\Debug\net6.0\ref\Bee_1060_NumerosPositivos.dll

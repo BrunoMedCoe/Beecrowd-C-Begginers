@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\bin\Debug\net6.0\ExtremamenteBasico_1001.exe
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\bin\Debug\net6.0\ExtremamenteBasico_1001.deps.json
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\bin\Debug\net6.0\ExtremamenteBasico_1001.runtimeconfig.json
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\bin\Debug\net6.0\ExtremamenteBasico_1001.dll
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\bin\Debug\net6.0\ExtremamenteBasico_1001.pdb
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.dll
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\refint\ExtremamenteBasico_1001.dll
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.pdb
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ExtremamenteBasico_1001.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\ExtremamenteBasico_1001\ExtremamenteBasico_1001\obj\Debug\net6.0\ref\ExtremamenteBasico_1001.dll

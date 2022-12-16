@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\bin\Debug\net6.0\Bee_1150_UltrapassandoZ.exe
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\bin\Debug\net6.0\Bee_1150_UltrapassandoZ.deps.json
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\bin\Debug\net6.0\Bee_1150_UltrapassandoZ.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\bin\Debug\net6.0\Bee_1150_UltrapassandoZ.dll
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\bin\Debug\net6.0\Bee_1150_UltrapassandoZ.pdb
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\obj\Debug\net6.0\Bee_1150_UltrapassandoZ.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\obj\Debug\net6.0\Bee_1150_UltrapassandoZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\obj\Debug\net6.0\Bee_1150_UltrapassandoZ.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\obj\Debug\net6.0\Bee_1150_UltrapassandoZ.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\obj\Debug\net6.0\Bee_1150_UltrapassandoZ.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\obj\Debug\net6.0\Bee_1150_UltrapassandoZ.dll
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\obj\Debug\net6.0\refint\Bee_1150_UltrapassandoZ.dll
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\obj\Debug\net6.0\Bee_1150_UltrapassandoZ.pdb
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\obj\Debug\net6.0\Bee_1150_UltrapassandoZ.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ\obj\Debug\net6.0\ref\Bee_1150_UltrapassandoZ.dll

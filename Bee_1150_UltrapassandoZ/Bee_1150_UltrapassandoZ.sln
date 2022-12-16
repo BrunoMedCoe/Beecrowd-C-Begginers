@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee_1150_UltrapassandoZ", "Bee_1150_UltrapassandoZ\Bee_1150_UltrapassandoZ.csproj", "{2D837CF5-EA46-4ACD-8155-9FA93F3F3AB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D837CF5-EA46-4ACD-8155-9FA93F3F3AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D837CF5-EA46-4ACD-8155-9FA93F3F3AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D837CF5-EA46-4ACD-8155-9FA93F3F3AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D837CF5-EA46-4ACD-8155-9FA93F3F3AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC7548B2-512D-4B16-AD67-678BF5CE127C}
+	EndGlobalSection
+EndGlobal

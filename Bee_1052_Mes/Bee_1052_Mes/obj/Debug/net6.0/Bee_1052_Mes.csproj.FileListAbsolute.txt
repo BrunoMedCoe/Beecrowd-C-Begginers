@@ -1,0 +1,15 @@
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\bin\Debug\net6.0\Bee_1052_Mes.exe
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\bin\Debug\net6.0\Bee_1052_Mes.deps.json
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\bin\Debug\net6.0\Bee_1052_Mes.runtimeconfig.json
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\bin\Debug\net6.0\Bee_1052_Mes.dll
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\bin\Debug\net6.0\Bee_1052_Mes.pdb
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\obj\Debug\net6.0\Bee_1052_Mes.csproj.AssemblyReference.cache
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\obj\Debug\net6.0\Bee_1052_Mes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\obj\Debug\net6.0\Bee_1052_Mes.AssemblyInfoInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\obj\Debug\net6.0\Bee_1052_Mes.AssemblyInfo.cs
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\obj\Debug\net6.0\Bee_1052_Mes.csproj.CoreCompileInputs.cache
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\obj\Debug\net6.0\Bee_1052_Mes.dll
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\obj\Debug\net6.0\refint\Bee_1052_Mes.dll
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\obj\Debug\net6.0\Bee_1052_Mes.pdb
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\obj\Debug\net6.0\Bee_1052_Mes.genruntimeconfig.cache
+D:\SharpCoders\Beecrowd\Bee_1052_Mes\Bee_1052_Mes\obj\Debug\net6.0\ref\Bee_1052_Mes.dll

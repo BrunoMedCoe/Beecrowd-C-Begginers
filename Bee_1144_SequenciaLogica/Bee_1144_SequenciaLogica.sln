@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee_1144_SequenciaLogica", "Bee_1144_SequenciaLogica\Bee_1144_SequenciaLogica.csproj", "{53C7C20D-C9F0-4C50-8F6A-39E3DE07DBEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53C7C20D-C9F0-4C50-8F6A-39E3DE07DBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C7C20D-C9F0-4C50-8F6A-39E3DE07DBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C7C20D-C9F0-4C50-8F6A-39E3DE07DBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C7C20D-C9F0-4C50-8F6A-39E3DE07DBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F658806-EB30-435B-82F7-43A4331D9976}
+	EndGlobalSection
+EndGlobal

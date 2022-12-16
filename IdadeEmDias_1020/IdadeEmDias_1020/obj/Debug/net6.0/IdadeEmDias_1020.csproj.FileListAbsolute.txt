@@ -1,0 +1,15 @@
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\bin\Debug\net6.0\IdadeEmDias_1020.exe
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\bin\Debug\net6.0\IdadeEmDias_1020.deps.json
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\bin\Debug\net6.0\IdadeEmDias_1020.runtimeconfig.json
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\bin\Debug\net6.0\IdadeEmDias_1020.dll
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\bin\Debug\net6.0\IdadeEmDias_1020.pdb
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.csproj.AssemblyReference.cache
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.GeneratedMSBuildEditorConfig.editorconfig
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.AssemblyInfoInputs.cache
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.AssemblyInfo.cs
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.csproj.CoreCompileInputs.cache
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.dll
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\refint\IdadeEmDias_1020.dll
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.pdb
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\IdadeEmDias_1020.genruntimeconfig.cache
+D:\SarpCoders\Beecrowd\IdadeEmDias_1020\IdadeEmDias_1020\obj\Debug\net6.0\ref\IdadeEmDias_1020.dll
